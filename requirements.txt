@@ -2,3 +2,4 @@ torch
 opencv-python
 matplotlib
 numpy
+In Google Colab for better results
